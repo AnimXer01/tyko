@@ -45,7 +45,7 @@ tick();
 
 function Youtube() {
   setTimeout(function() {
-    window.open('https://www.youtube.com/channel/UCiSP9FWliPIwG-w59dJdilQ', 'ultimate')},
+    window.open('www.animxer.fun', 'ultimate')},
   100);
 }
 function Facebook() {
