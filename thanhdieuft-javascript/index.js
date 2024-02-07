@@ -50,17 +50,17 @@ function Youtube() {
 }
 function Facebook() {
   setTimeout(function() {
-    window.open('https://www.facebook.com/100035052735014', 'ultimate')},
+    window.open('https://manga-xer.vercel.app', 'ultimate')},
   100);
 }
 function Discord() {
   setTimeout(function() {
-    window.open('https://dsc.bio/WusThanhDieu', 'ultimate')},
+    window.open('https://xernovels.pages.dev', 'ultimate')},
   100);
 }
 function Telegram() {
   setTimeout(function() {
-    window.open('https://t.me/ThanhDieuChannel', 'ultimate')},
+    window.open('https://animxer01.github.io/Flix', 'ultimate')},
   100);
 }
 
